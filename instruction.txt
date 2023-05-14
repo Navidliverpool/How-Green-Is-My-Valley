@@ -1,0 +1,4 @@
+Instruction explanation by myself. I have changed the pseudocode a bit.
+
+consider the middle element of the input array as the pivot.
+make numbers on the left side of the array decreasing and the right side increasing. 
